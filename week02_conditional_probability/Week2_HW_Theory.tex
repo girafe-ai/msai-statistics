@@ -1,0 +1,45 @@
+\documentclass[12pt]{article}
+
+\usepackage[left=1cm,right=1cm,
+    top=2cm,bottom=2cm,bindingoffset=0cm]{geometry}
+\usepackage{braket}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{mathrsfs}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8x]{inputenc}
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\parindent=0.5cm
+
+\usepackage{hyperref} 
+\usepackage{indentfirst}
+
+\numberwithin{equation}{section}
+%\usepackage{showkeys}
+
+\begin{document}
+\section*{MSAI Statistics \& Probability – Week 2 Seminar \& HW}\\
+
+\textbf{Problem 1:} There are $R$ red and $G$ green balls in a box. Alice and Bob pick balls from the box in turns (one ball at a time). The one who is the first to pick a red ball is the winner. Find the probability that Alice wins if she is the first to make a move and 1) they do not put balls back in the box 2) they do put them back. Write a numeric answer for $R=4$ and $G=5$.
+\\
+
+\textbf{Problem 2:} Are the following statements true?
+\begin{enumerate}
+    \item $p(B|A)+p(B|\bar{A})=1$
+    \item $p(B|A)+p(\bar{B}|\bar{A})=1$
+\end{enumerate}
+\\
+
+\textbf{Problem 3:} Two subsets, $A_1$ and $A_2$ (they may coincide) are chosen randomly from $\{1,\dots,n\}$. Find the probability that $|A_1|=l_1$ and $|A_2|=l_2$ under the condition that $A_1\cap A_2=\varnothing.$ Give a numeric answer for $n=6,~l_1=2,~l_2=3.$
+\\
+
+\textbf{Problem 4:} There are $R$ red and $G$ green balls in a box. Alice is picking balls from the box, one at a time. $A_k$ is the event that, at time $k$ ($k$-th pick), she picks a red ball. Are the events $A_1,\dots,A_n$ independent? Alice may be picking balls with replacement or without replacement – if Alice chooses to pick, say, without replacement – then she's making all the picks without replacement. Same for with replacement – provide the answer for both cases. \\
+\textit{You may (or may not) need the following notion in your solution: A set of more than 2 events is called mutually (or collectively) independent, if all pairs of events in it are pairwise independent.}
+\\
+
+\textbf{Problem 5:} Every edge (independently of all others) of $K_n$ – a complete graph on $n$ vertices, is colored in one of $k$
+colors. For a set of vertices $S$ of the graph, let $A_S$ be the event that all the edges having both vertices in $S$ have the same color. What are the conditions on $S,T$ for the events $A_S$ and $A_T$ to be independent?
+
+\end{document}
