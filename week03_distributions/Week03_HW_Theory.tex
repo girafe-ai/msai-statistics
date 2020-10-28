@@ -1,0 +1,52 @@
+\documentclass[12pt]{article}
+
+\usepackage[left=1cm,right=1cm,
+    top=2cm,bottom=2cm,bindingoffset=0cm]{geometry}
+\usepackage{braket}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{mathrsfs}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8x]{inputenc}
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\parindent=0.5cm
+
+\usepackage{hyperref} 
+\usepackage{indentfirst}
+
+\numberwithin{equation}{section}
+%\usepackage{showkeys}
+
+\begin{document}
+\section*{MSAI Statistics \& Probability – Week 3 Seminar \& HW}\\
+
+\textbf{Problem 1:} Let $\mathrm{P}$ be a distribution on $\mathbb{R}$ and $F$ be its distribution function. Are the following equalities true?
+\begin{enumerate}
+    \item $P([a,b])=F(b)-F(a-)$
+    \item $P((a,b))=F(b-)-F(a)$
+    \item $P([a,b))=F(b-)-F(a-)$
+    \item $P(\{x\})=F(x)-F(x-)$
+\end{enumerate}
+\\
+
+\textbf{Problem 2:} Let $\mathrm{P}$ have density $p$. Find its distribution, $F,$ if
+\begin{enumerate}
+    \item $p(t)=\frac{I_{[a,b]}(t)}{b-a}$
+    \item $p(t)=\lambda e^{-\lambda t} I_{(0,\infty)}(t)$
+    \item $p(t)=\frac{\theta}{\pi(t^2+\theta^2)}$
+\end{enumerate}
+Find the product of $F_1(2b)F_2(\ln 2/\lambda)F_3(0)$.
+\\
+
+\textbf{Problem 3:} Let $\mathrm{P}$ be a discrete distribution on $\mathbb{R}$, $p(x)=\mathrm{P}(\{x\})$
+\begin{enumerate}
+    \item $p(x)=\frac{\lambda^x e^{-\lambda}}{x!},~x\in\mathbb{Z}_+$ (Poisson distribution). Find $\mathrm{P}(2\mathbb{Z}_+).$
+    \item $p(x)=p(1-p)^{x-1},~x\in\mathbb{N}$ (geometric distribution). Find the distribution function and $\mathrm{P}(2\mathbb{Z}_+).$
+\end{enumerate}
+Find numerical values for both distributions if $\lambda=\ln 2/2, ~p=1/3$
+\\
+
+\textbf{Problem 4:} Let $\matbrm{P}$ be the uniform distribution on the quarter disk $D=\{(x,y):~x^2+y^2<1,~x>0,~y>0\}.$ Let $P_1(x)$ be its \textit{marginal distribution} (marginalized $y$). Find the density function $p_1(x)$ of it, as well as the distribution function $F_1$. Find the numerical value of $p_1(\sqrt{1-(\pi/4)^2}).$
+\end{document}
