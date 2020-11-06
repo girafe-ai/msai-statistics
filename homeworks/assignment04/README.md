@@ -5,6 +5,4 @@ Second home assignment:
 
 * Just read [this material](https://github.com/girafe-ai/msai-statistics/blob/main/week03_distributions/MSAI_Probability_Week3_MultivariateNormal.ipynb) about the Multivariate Normal distribution.
 
-* A practical assignment on Conditional Expectations **coming soon!**
-
-**Submission:** Google Form **coming soon!**
+**Submission:** To this [Google Form](https://forms.gle/hu8hj1k9mhizUMT99)
