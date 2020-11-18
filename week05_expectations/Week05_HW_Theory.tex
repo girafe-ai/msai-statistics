@@ -1,0 +1,50 @@
+\documentclass[12pt]{article}
+
+\usepackage[left=1cm,right=1cm,
+    top=2cm,bottom=2cm,bindingoffset=0cm]{geometry}
+\usepackage{braket}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{mathrsfs}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8x]{inputenc}
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\parindent=0.5cm
+
+\usepackage{hyperref} 
+\usepackage{indentfirst}
+
+\numberwithin{equation}{section}
+%\usepackage{showkeys}
+
+\begin{document}
+\section*{MSAI Statistics \& Probability – Week 5 Seminar \& HW}\\
+
+\textbf{Problem 1:} Consider an Erd\H{o}s-R\'{e}nyi random graph $G(n,p)$ on $n$ vertices (that is, for any two vertices, there is an edge between them with probability $p$ and no edge with probability $1-p$; all edges are independent of each other). Find the expected number of triangles in $G(n,p)$ (triples of vertices all pairwise connected with an edge). Provide an answer for $n=7,~p=\frac{1}{7}.$
+\\
+
+\textbf{Problem 2:} Let $\xi\sim\mathcal{N}(0,\sigma^2)$ (a random variable distributed normally with zero mean and dispersion $\sigma^2$). Find $\mathbb{E}\xi^k$ (expectation of $k$-th power of $\xi$). Provide an answer for $\sigma^2 = 2,~k=4.$
+\\
+
+\textbf{Problem 3:} Let $\xi\sim\textrm{Pois}(\lambda)$ (a random variable with Poisson distribution with rate $\lambda$). For some natural $k\in\mathbb{N}$, find $\mathbb{E}{\xi\choose k}$ (expected ${\xi\choose k}$ - binomial coefficient). Provide an answer for $\lambda=3,~k=4.$
+\\
+
+\textbf{Problem 4:} Find $\mathbb{E}\xi$ if $\xi$ have the following distribution function:
+$$F(x)=
+\begin{cases}
+0, ~~~ x<-2,\\
+1/5, ~~~-2\leq x<1 \\
+x^2/4, ~~~1\leq x<2 \\
+1, ~~~ x\geq 2
+\end{cases}$$
+
+\textbf{Problem 5:} (Conditional expectation). You have two fair dice (six-sided cubes, $1,2,...,6$ on the faces, each face equally probable). You throw them and read the sum of their values, $z=x+y$. Find the expected $\mathbb{E}(x|z).$ 
+
+To do this, consider the following functional 
+$$J(\alpha)=\sum_{x,z}(x-\alpha z)^2p(x,z)=\sum_{x,y}(x-\alpha (x+y))^2p(x,y)$$
+- it only depends on $\alpha$. You know all possible $x$ outcomes and all possible $z=x+y$ outcomes and their probabilities! Use any mathematical software to compute the expression of $J(\alpha)$ as a function of $\alpha$, and then minimize it with respect to $\alpha.$
+
+\end{document}
+
