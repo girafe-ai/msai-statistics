@@ -1,6 +1,9 @@
 ### Probability Theory and Statistics
 Detailed description of lecture materials is available [here](../master/extended_info.md)
-| Week   | Content                | Video & Quiz | Materials | Home Assignment | Deadline |
+
+The **lectures slides are in the lecture slides folder!**
+
+| Week   | Content                | Video & Quiz | Seminar Materials | Home Assignment | Deadline |
 |:------:|:-----------------------|:-------:|:-------:|:-------------------:|:------------------:|
 | 01     | Introduction. Geometric probability  | [week01](https://oninemipt.teachbase.ru/course_sessions/261335) | Slides, [Seminar_Recording](https://youtu.be/H3s1ou_p45M) | [assignment01](../master/homeworks/assignment01) |  22.10.2020 10:00 GMT+3 |
 | 02     | Conditional probability. Bayes Theorem | [week02](https://oninemipt.teachbase.ru/course_sessions/263749) | [Slides](../master/slides/Week02_Slides.pdf), [Seminar_Recording](https://youtu.be/5znRQgLdnWg) | [assignment02](https://github.com/girafe-ai/msai-statistics/tree/main/homeworks/assignment02) | 30.10.2020 10:00 GMT+3 |
@@ -8,3 +11,4 @@ Detailed description of lecture materials is available [here](../master/extended
 | 04     | Random Vectors | [week04](https://go.teachbase.ru/course_sessions/263783) | [Slides](../master/slides/Week04_Slides.pdf), [Seminar_Recording](https://youtu.be/PQL4dEopzcw) | [assignment04](https://github.com/girafe-ai/msai-statistics/tree/main/homeworks/assignment04) | 13.11.2020 10:00 GMT+3 |
 | 05     | Expectations | [week05](https://go.teachbase.ru/course_sessions/263782) | [Slides](../master/slides/Week05_Slides.pdf), [Seminar_Recording](https://youtu.be/nXKEaM8syKk) | [assignment05](../master/homeworks/assignment05) | 27.11.2020 10:00 GMT+3 |
 | 06     | Variance, Inequalities | [week06](https://go.teachbase.ru/course_sessions/277508) | [Slides](../master/slides/Week06_Slides.pdf), Seminar_Recording | [assignment06](../master/homeworks/assignment06) | 04.12.2020 10:00 GMT+3 |
+| 07     | Convergence | [week07](https://go.teachbase.ru/course_sessions/277509) | Slides, Seminar_Recording | assignment07 | 11.12.2020 10:00 GMT+3 |
