@@ -1,7 +1,7 @@
 ### Probability Theory and Statistics
 Detailed description of lecture materials is available [here](../master/extended_info.md)
 | Week   | Content                | Video & Quiz | Lecture notes | Seminar Materials | Home Assignment | Deadline |
-|:------:|:-----------------------|:-------:|:-------:|:-------------------:|:------------------:|
+|:------:|:-----------------------|:-------:|:-------:|:-------:|:-------------------:|:------------------:|
 | 01     | Introduction. Geometric probability  | [week01](https://oninemipt.teachbase.ru/course_sessions/261335) | [Lecture Slides](../master/lecture_slides/lecture_01.pdf) | Slides, [Seminar_Recording](https://youtu.be/H3s1ou_p45M) | [assignment01](../master/homeworks/assignment01) |  22.10.2020 10:00 GMT+3 |
 | 02     | Conditional probability. Bayes Theorem | [week02](https://oninemipt.teachbase.ru/course_sessions/263749) | [Lecture Slides](../master/lecture_slides/lecture_02.pdf) | [Slides](../master/slides/Week02_Slides.pdf), [Seminar_Recording](https://youtu.be/5znRQgLdnWg) | [assignment02](https://github.com/girafe-ai/msai-statistics/tree/main/homeworks/assignment02) | 30.10.2020 10:00 GMT+3 |
 | 03     | Distributions | [week03](https://go.teachbase.ru/course_sessions/263784) | [Lecture Slides](../master/lecture_slides/lecture_03.pdf) | [Slides](../master/slides/Week03_Slides.pdf), [Seminar_Recording](https://youtu.be/uDsqWNevl5E) | [assignment03](https://github.com/girafe-ai/msai-statistics/tree/main/homeworks/assignment03)  | 06.11.2020 10:00 GMT+3 |
