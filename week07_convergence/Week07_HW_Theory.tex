@@ -1,0 +1,39 @@
+\documentclass[12pt]{article}
+
+\usepackage[left=1cm,right=1cm,
+    top=2cm,bottom=2cm,bindingoffset=0cm]{geometry}
+\usepackage{braket}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{mathrsfs}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8x]{inputenc}
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\parindent=0.5cm
+
+\usepackage{hyperref} 
+\usepackage{indentfirst}
+
+\numberwithin{equation}{section}
+%\usepackage{showkeys}
+
+\begin{document}
+\section*{MSAI Statistics \& Probability – Week 7 Seminar \& HW}\\
+
+\textbf{Problem 1:} Let $\Omega$ be countably infinite. Prove that a.s. convergence is equivalent to convergence in probability.
+\\
+
+\textbf{Problem 2:} Let $\xi_1,\,\xi_2,\,\dots$ be independent Bernoulli random variables, $\xi_k\sim\textrm{Bern}(p_k).$ Show that it is necessary and sufficient for $p_n\rightarrow0$ as $n\rightarrow\infty$ for the following things to be true:
+\begin{enumerate}
+    \item $\xi_n\overset{P}{\rightarrow}0$ as $n\rightarrow\infty$ ($\xi_n$ converging to zero in probability)
+    \item $\xi_n\overset{L_q}{\rightarrow}0$ ($q\geq1$) as $n\rightarrow\infty$ ($\xi_n$ converging to zero in $L_q$ norm with $q\geq1$. \textit{I just used $q$ instead of $p$ in $L_p$ norm here to avoid confusion with $p_k$ – the probability of success of a trial in Bernoulli's scheme.})
+\end{enumerate}
+\\
+
+\textbf{Problem 3:} Let $\{S_n,~n\in\mathbb{Z}_+\}$ be a simple random walk. Find $P(S_1\neq0,~S_2\neq0,~\dots)$ (the probability of not getting back to zero after $n$ steps for given $n$). Find the limit of this probability as $n\rightarrow\infty.$ \textit{Hint: Stirling's approximation of factorial can be useful here.}
+
+
+
+\end{document}
