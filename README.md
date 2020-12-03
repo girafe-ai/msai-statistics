@@ -2,6 +2,8 @@
 
 The **lectures slides are in the [lecture slides folder](../master/lecture_slides)!**
 
+In this [folder on Yandex.Disk](https://yadi.sk/d/RRTLIiDJaizIhw) you can find the **recommended books** for the course.
+
 | Week   | Content                | Video & Quiz | Seminar Materials | Home Assignment | Deadline |
 |:------:|:-----------------------|:-------:|:-------:|:-------------------:|:------------------:|
 | 01     | Introduction. Geometric probability  | [week01](https://oninemipt.teachbase.ru/course_sessions/261335) | Slides, [Seminar_Recording](https://youtu.be/H3s1ou_p45M) | [assignment01](../master/homeworks/assignment01) |  22.10.2020 10:00 GMT+3 |
