@@ -1,7 +1,6 @@
 ### Probability Theory and Statistics
-Detailed description of lecture materials is available [here](../master/extended_info.md)
 
-The **lectures slides are in the lecture slides folder!**
+The **lectures slides are in the [lecture slides folder](../master/lecture_slides)!**
 
 | Week   | Content                | Video & Quiz | Seminar Materials | Home Assignment | Deadline |
 |:------:|:-----------------------|:-------:|:-------:|:-------------------:|:------------------:|
