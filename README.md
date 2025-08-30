@@ -2,7 +2,7 @@
 
 The **lectures slides are in the [lecture slides folder](../master/lecture_slides)!**
 
-In this [folder on Yandex.Disk](https://yadi.sk/d/RRTLIiDJaizIhw) you can find the **recommended books** for the course.
+In this [folder on Yandex.Disk](https://disk.360.yandex.ru/d/XwJgwG8iLJtVXA) you can find the **recommended books** for the course.
 
 | Week   | Content                | Video & Quiz | Seminar Materials | Home Assignment | Deadline |
 |:------:|:-----------------------|:-------:|:-------:|:-------------------:|:------------------:|
