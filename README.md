@@ -1,6 +1,7 @@
 This is a course in statistical inference, mostly parametric.
 
 The source book is **Larry Wasserman's "All of Statistics"**.
+In this **[folder on Yandex.Disk](https://disk.360.yandex.ru/d/XwJgwG8iLJtVXA)** you can find more materials for this course.
 
 Lectures recording playlist:
 https://youtube.com/playlist?list=PLJR10EXrBaAvz-e2QXiVHs7Cck5tamJVr
@@ -20,6 +21,7 @@ https://youtube.com/playlist?list=PLJR10EXrBaAvz-e2QXiVHs7Cck5tamJVr
 |[9) Inference about independence](https://github.com/girafe-ai/msai-statistics/blob/22s_stat/lecture_slides/lecture09/lecture09.pdf)|https://youtu.be/nLY6Lq6pvtk|
 |[10) Causal inference](https://github.com/girafe-ai/msai-statistics/blob/22s_stat/lecture_slides/lecture10/lecture10.pdf)|https://youtu.be/-ddX79K8aM4|
 |[11) Nonparametric methods](https://github.com/girafe-ai/msai-statistics/blob/22s_stat/lecture_slides/lecture11/lecture11.pdf)|https://youtu.be/6yqRzyZNLys|
+
 
 
 
